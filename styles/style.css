@@ -150,6 +150,9 @@ hr {
         flex-direction: column;
         
     }
+    .course-detail{
+        margin-bottom: 20px;
+    }
 
     
 }
